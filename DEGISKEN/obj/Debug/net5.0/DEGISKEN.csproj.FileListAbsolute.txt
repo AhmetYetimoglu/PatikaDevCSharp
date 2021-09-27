@@ -1,0 +1,5 @@
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\DEGISKEN\obj\Debug\net5.0\DEGISKEN.csproj.AssemblyReference.cache
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\DEGISKEN\obj\Debug\net5.0\DEGISKEN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\DEGISKEN\obj\Debug\net5.0\DEGISKEN.AssemblyInfoInputs.cache
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\DEGISKEN\obj\Debug\net5.0\DEGISKEN.AssemblyInfo.cs
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\DEGISKEN\obj\Debug\net5.0\DEGISKEN.csproj.CoreCompileInputs.cache
