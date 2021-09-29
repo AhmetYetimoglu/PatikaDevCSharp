@@ -57,7 +57,7 @@ namespace operatorler
 
             // /, *,+,-
 
-            int sayi = 10;
+            int sayi1 = 10;
             int sayi2 = 5;
             int sonuc1 = sayi1/sayi2;
             Console.WriteLine(sonuc1);

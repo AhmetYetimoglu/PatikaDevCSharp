@@ -80,7 +80,7 @@ namespace tip_donusumleri
             rakam1 = Int32.Parse(metin1);
             double2 = Double.Parse(metin2);
             Console.WriteLine("rakam1: "+rakam1);
-            Console.WriteLine("rakam2: "+rakam2);
+            Console.WriteLine("rakam2: "+double2);
         }
     }
 }
