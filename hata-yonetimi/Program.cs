@@ -23,7 +23,7 @@ namespace hata_yonetimi
             try
             {
                  //int a = int.Parse(null);
-                 int a = int.Parse("test");
+                 //int a = int.Parse("test");
                  int a = int.Parse("-2000000000000000000000");
             }
             catch (ArgumentNullException ex)

@@ -14,8 +14,8 @@ namespace DEGISKEN
 
             Int16 i16 = 2;  //2 byte
             int i = 2;      //4 byte
-            int32 i32 = 2;  //4 byte
-            int64 i64 = 2;  //4 byte
+            //int32 i32 = 2;  //4 byte
+            //int64 i64 = 2;  //4 byte
 
             uint ui = 2;    //4 byte
             long l = 4;     //4 byte
