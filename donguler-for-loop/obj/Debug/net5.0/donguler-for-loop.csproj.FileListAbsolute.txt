@@ -1,0 +1,16 @@
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\donguler-for-loop\bin\Debug\net5.0\donguler-for-loop.exe
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\donguler-for-loop\bin\Debug\net5.0\donguler-for-loop.deps.json
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\donguler-for-loop\bin\Debug\net5.0\donguler-for-loop.runtimeconfig.json
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\donguler-for-loop\bin\Debug\net5.0\donguler-for-loop.runtimeconfig.dev.json
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\donguler-for-loop\bin\Debug\net5.0\donguler-for-loop.dll
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\donguler-for-loop\bin\Debug\net5.0\ref\donguler-for-loop.dll
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\donguler-for-loop\bin\Debug\net5.0\donguler-for-loop.pdb
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\donguler-for-loop\obj\Debug\net5.0\donguler-for-loop.csproj.AssemblyReference.cache
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\donguler-for-loop\obj\Debug\net5.0\donguler-for-loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\donguler-for-loop\obj\Debug\net5.0\donguler-for-loop.AssemblyInfoInputs.cache
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\donguler-for-loop\obj\Debug\net5.0\donguler-for-loop.AssemblyInfo.cs
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\donguler-for-loop\obj\Debug\net5.0\donguler-for-loop.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\donguler-for-loop\obj\Debug\net5.0\donguler-for-loop.dll
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\donguler-for-loop\obj\Debug\net5.0\ref\donguler-for-loop.dll
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\donguler-for-loop\obj\Debug\net5.0\donguler-for-loop.pdb
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\donguler-for-loop\obj\Debug\net5.0\donguler-for-loop.genruntimeconfig.cache
