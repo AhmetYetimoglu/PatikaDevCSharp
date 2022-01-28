@@ -1,0 +1,16 @@
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\11-Metotlar\Recursive ve Extension\bin\Debug\net5.0\Recursive ve Extension.exe
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\11-Metotlar\Recursive ve Extension\bin\Debug\net5.0\Recursive ve Extension.deps.json
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\11-Metotlar\Recursive ve Extension\bin\Debug\net5.0\Recursive ve Extension.runtimeconfig.json
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\11-Metotlar\Recursive ve Extension\bin\Debug\net5.0\Recursive ve Extension.runtimeconfig.dev.json
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\11-Metotlar\Recursive ve Extension\bin\Debug\net5.0\Recursive ve Extension.dll
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\11-Metotlar\Recursive ve Extension\bin\Debug\net5.0\ref\Recursive ve Extension.dll
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\11-Metotlar\Recursive ve Extension\bin\Debug\net5.0\Recursive ve Extension.pdb
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\11-Metotlar\Recursive ve Extension\obj\Debug\net5.0\Recursive ve Extension.csproj.AssemblyReference.cache
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\11-Metotlar\Recursive ve Extension\obj\Debug\net5.0\Recursive ve Extension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\11-Metotlar\Recursive ve Extension\obj\Debug\net5.0\Recursive ve Extension.AssemblyInfoInputs.cache
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\11-Metotlar\Recursive ve Extension\obj\Debug\net5.0\Recursive ve Extension.AssemblyInfo.cs
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\11-Metotlar\Recursive ve Extension\obj\Debug\net5.0\Recursive ve Extension.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\11-Metotlar\Recursive ve Extension\obj\Debug\net5.0\Recursive ve Extension.dll
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\11-Metotlar\Recursive ve Extension\obj\Debug\net5.0\ref\Recursive ve Extension.dll
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\11-Metotlar\Recursive ve Extension\obj\Debug\net5.0\Recursive ve Extension.pdb
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\11-Metotlar\Recursive ve Extension\obj\Debug\net5.0\Recursive ve Extension.genruntimeconfig.cache
