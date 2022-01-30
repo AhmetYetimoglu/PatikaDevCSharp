@@ -1,0 +1,16 @@
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\12-First Task\Third\bin\Debug\net5.0\Third.exe
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\12-First Task\Third\bin\Debug\net5.0\Third.deps.json
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\12-First Task\Third\bin\Debug\net5.0\Third.runtimeconfig.json
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\12-First Task\Third\bin\Debug\net5.0\Third.runtimeconfig.dev.json
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\12-First Task\Third\bin\Debug\net5.0\Third.dll
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\12-First Task\Third\bin\Debug\net5.0\ref\Third.dll
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\12-First Task\Third\bin\Debug\net5.0\Third.pdb
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\12-First Task\Third\obj\Debug\net5.0\Third.csproj.AssemblyReference.cache
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\12-First Task\Third\obj\Debug\net5.0\Third.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\12-First Task\Third\obj\Debug\net5.0\Third.AssemblyInfoInputs.cache
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\12-First Task\Third\obj\Debug\net5.0\Third.AssemblyInfo.cs
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\12-First Task\Third\obj\Debug\net5.0\Third.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\12-First Task\Third\obj\Debug\net5.0\Third.dll
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\12-First Task\Third\obj\Debug\net5.0\ref\Third.dll
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\12-First Task\Third\obj\Debug\net5.0\Third.pdb
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\12-First Task\Third\obj\Debug\net5.0\Third.genruntimeconfig.cache
