@@ -1,0 +1,16 @@
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\13-String-Metotlari\obj\Debug\net5.0\13-String-Metotlari.csproj.AssemblyReference.cache
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\13-String-Metotlari\obj\Debug\net5.0\13-String-Metotlari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\13-String-Metotlari\obj\Debug\net5.0\13-String-Metotlari.AssemblyInfoInputs.cache
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\13-String-Metotlari\obj\Debug\net5.0\13-String-Metotlari.AssemblyInfo.cs
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\13-String-Metotlari\obj\Debug\net5.0\13-String-Metotlari.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\13-String-Metotlari\bin\Debug\net5.0\13-String-Metotlari.exe
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\13-String-Metotlari\bin\Debug\net5.0\13-String-Metotlari.deps.json
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\13-String-Metotlari\bin\Debug\net5.0\13-String-Metotlari.runtimeconfig.json
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\13-String-Metotlari\bin\Debug\net5.0\13-String-Metotlari.runtimeconfig.dev.json
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\13-String-Metotlari\bin\Debug\net5.0\13-String-Metotlari.dll
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\13-String-Metotlari\bin\Debug\net5.0\ref\13-String-Metotlari.dll
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\13-String-Metotlari\bin\Debug\net5.0\13-String-Metotlari.pdb
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\13-String-Metotlari\obj\Debug\net5.0\13-String-Metotlari.dll
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\13-String-Metotlari\obj\Debug\net5.0\ref\13-String-Metotlari.dll
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\13-String-Metotlari\obj\Debug\net5.0\13-String-Metotlari.pdb
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\13-String-Metotlari\obj\Debug\net5.0\13-String-Metotlari.genruntimeconfig.cache
