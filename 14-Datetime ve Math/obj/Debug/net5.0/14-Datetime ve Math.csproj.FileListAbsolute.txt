@@ -1,0 +1,16 @@
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\14-Datetime ve Math\bin\Debug\net5.0\14-Datetime ve Math.exe
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\14-Datetime ve Math\bin\Debug\net5.0\14-Datetime ve Math.deps.json
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\14-Datetime ve Math\bin\Debug\net5.0\14-Datetime ve Math.runtimeconfig.json
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\14-Datetime ve Math\bin\Debug\net5.0\14-Datetime ve Math.runtimeconfig.dev.json
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\14-Datetime ve Math\bin\Debug\net5.0\14-Datetime ve Math.dll
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\14-Datetime ve Math\bin\Debug\net5.0\ref\14-Datetime ve Math.dll
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\14-Datetime ve Math\bin\Debug\net5.0\14-Datetime ve Math.pdb
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\14-Datetime ve Math\obj\Debug\net5.0\14-Datetime ve Math.csproj.AssemblyReference.cache
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\14-Datetime ve Math\obj\Debug\net5.0\14-Datetime ve Math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\14-Datetime ve Math\obj\Debug\net5.0\14-Datetime ve Math.AssemblyInfoInputs.cache
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\14-Datetime ve Math\obj\Debug\net5.0\14-Datetime ve Math.AssemblyInfo.cs
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\14-Datetime ve Math\obj\Debug\net5.0\14-Datetime ve Math.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\14-Datetime ve Math\obj\Debug\net5.0\14-Datetime ve Math.dll
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\14-Datetime ve Math\obj\Debug\net5.0\ref\14-Datetime ve Math.dll
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\14-Datetime ve Math\obj\Debug\net5.0\14-Datetime ve Math.pdb
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\14-Datetime ve Math\obj\Debug\net5.0\14-Datetime ve Math.genruntimeconfig.cache
