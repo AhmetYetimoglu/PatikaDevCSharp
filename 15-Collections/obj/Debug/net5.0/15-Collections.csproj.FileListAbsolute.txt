@@ -1,0 +1,16 @@
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\15-Collections\bin\Debug\net5.0\15-Collections.exe
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\15-Collections\bin\Debug\net5.0\15-Collections.deps.json
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\15-Collections\bin\Debug\net5.0\15-Collections.runtimeconfig.json
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\15-Collections\bin\Debug\net5.0\15-Collections.runtimeconfig.dev.json
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\15-Collections\bin\Debug\net5.0\15-Collections.dll
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\15-Collections\bin\Debug\net5.0\ref\15-Collections.dll
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\15-Collections\bin\Debug\net5.0\15-Collections.pdb
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\15-Collections\obj\Debug\net5.0\15-Collections.csproj.AssemblyReference.cache
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\15-Collections\obj\Debug\net5.0\15-Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\15-Collections\obj\Debug\net5.0\15-Collections.AssemblyInfoInputs.cache
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\15-Collections\obj\Debug\net5.0\15-Collections.AssemblyInfo.cs
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\15-Collections\obj\Debug\net5.0\15-Collections.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\15-Collections\obj\Debug\net5.0\15-Collections.dll
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\15-Collections\obj\Debug\net5.0\ref\15-Collections.dll
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\15-Collections\obj\Debug\net5.0\15-Collections.pdb
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\15-Collections\obj\Debug\net5.0\15-Collections.genruntimeconfig.cache

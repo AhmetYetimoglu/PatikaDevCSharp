@@ -57,6 +57,8 @@ namespace _13_String_Metotlari
             //SubString
             Console.WriteLine(degisken.Substring(4));
             Console.WriteLine(degisken.Substring(4,6));
+
+            Console.WriteLine(degisken.Substring(degisken.Length-2,2));
         }
     }
 }
