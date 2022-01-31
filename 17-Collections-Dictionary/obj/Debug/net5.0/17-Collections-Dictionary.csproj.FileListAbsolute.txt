@@ -1,0 +1,16 @@
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\17-Collections-Dictionary\obj\Debug\net5.0\17-Collections-Dictionary.csproj.AssemblyReference.cache
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\17-Collections-Dictionary\obj\Debug\net5.0\17-Collections-Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\17-Collections-Dictionary\obj\Debug\net5.0\17-Collections-Dictionary.AssemblyInfoInputs.cache
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\17-Collections-Dictionary\obj\Debug\net5.0\17-Collections-Dictionary.AssemblyInfo.cs
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\17-Collections-Dictionary\obj\Debug\net5.0\17-Collections-Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\17-Collections-Dictionary\bin\Debug\net5.0\17-Collections-Dictionary.exe
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\17-Collections-Dictionary\bin\Debug\net5.0\17-Collections-Dictionary.deps.json
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\17-Collections-Dictionary\bin\Debug\net5.0\17-Collections-Dictionary.runtimeconfig.json
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\17-Collections-Dictionary\bin\Debug\net5.0\17-Collections-Dictionary.runtimeconfig.dev.json
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\17-Collections-Dictionary\bin\Debug\net5.0\17-Collections-Dictionary.dll
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\17-Collections-Dictionary\bin\Debug\net5.0\ref\17-Collections-Dictionary.dll
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\17-Collections-Dictionary\bin\Debug\net5.0\17-Collections-Dictionary.pdb
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\17-Collections-Dictionary\obj\Debug\net5.0\17-Collections-Dictionary.dll
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\17-Collections-Dictionary\obj\Debug\net5.0\ref\17-Collections-Dictionary.dll
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\17-Collections-Dictionary\obj\Debug\net5.0\17-Collections-Dictionary.pdb
+C:\Users\Ahmet\Desktop\PatikaDev\CSharp\17-Collections-Dictionary\obj\Debug\net5.0\17-Collections-Dictionary.genruntimeconfig.cache
