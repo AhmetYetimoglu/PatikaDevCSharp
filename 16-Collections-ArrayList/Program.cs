@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections;
+using System.Collections.Generic;
 
 namespace _16_Collections_ArrayList
 {
@@ -29,7 +30,7 @@ namespace _16_Collections_ArrayList
             //liste.AddRange(renkler);
             liste.AddRange(sayılar);
 
-            foreach (var item in lis)
+            foreach (var item in liste)
             {
                 Console.WriteLine(item);
             }
