@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Ahmet\\.nuget\\packages\\": {}
+    "/home/ahmet/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ahmet\\Desktop\\PatikaDev\\CSharp\\18-Sinif-Kavrami\\18-Sinif-Kavrami.csproj",
+      "projectUniqueName": "/home/ahmet/Documents/PatikaDev/PatikaDevCSharp/18-Sinif-Kavrami/18-Sinif-Kavrami.csproj",
       "projectName": "18-Sinif-Kavrami",
-      "projectPath": "C:\\Users\\Ahmet\\Desktop\\PatikaDev\\CSharp\\18-Sinif-Kavrami\\18-Sinif-Kavrami.csproj",
-      "packagesPath": "C:\\Users\\Ahmet\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ahmet\\Desktop\\PatikaDev\\CSharp\\18-Sinif-Kavrami\\obj\\",
+      "projectPath": "/home/ahmet/Documents/PatikaDev/PatikaDevCSharp/18-Sinif-Kavrami/18-Sinif-Kavrami.csproj",
+      "packagesPath": "/home/ahmet/.nuget/packages/",
+      "outputPath": "/home/ahmet/Documents/PatikaDev/PatikaDevCSharp/18-Sinif-Kavrami/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Ahmet\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/ahmet/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/home/ahmet/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
       }
     }
   }

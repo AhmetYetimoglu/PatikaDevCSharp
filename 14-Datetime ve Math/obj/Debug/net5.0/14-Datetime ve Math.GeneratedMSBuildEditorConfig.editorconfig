@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = _14_Datetime_ve_Math
-build_property.ProjectDir = c:\Users\Ahmet\Desktop\PatikaDev\CSharp\14-Datetime ve Math\
+build_property.ProjectDir = /home/ahmet/Documents/PatikaDev/PatikaDevCSharp/14-Datetime ve Math/
