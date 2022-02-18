@@ -16,12 +16,12 @@ namespace _18_Sinif_Kavrami
             Console.WriteLine("*************");
 
             Calisan calisan2 = new Calisan();
-            calisan1.Ad="Emir";
-            calisan1.Soyad="Arda";
-            calisan1.No=2345635;
-            calisan1.Departman="Satın Alım";
+            calisan2.Ad="Emir";
+            calisan2.Soyad="Arda";
+            calisan2.No=2345635;
+            calisan2.Departman="Satın Alım";
 
-            calisan1.CalisanBilgileri();
+            calisan2.CalisanBilgileri();
         }
     }
 
@@ -38,7 +38,6 @@ namespace _18_Sinif_Kavrami
             Console.WriteLine("Çalışanın Soyadı: {0}",Soyad);
             Console.WriteLine("Çalışanın Numarası: {0}",No);
             Console.WriteLine("Çalışanın Departmanı: {0}",Departman);
-            
         }
     }
 }

@@ -1,0 +1,16 @@
+/home/ahmet/Documents/PatikaDev/PatikaDevCSharp/19-kurucu-metotlar/bin/Debug/net5.0/19-kurucu-metotlar
+/home/ahmet/Documents/PatikaDev/PatikaDevCSharp/19-kurucu-metotlar/bin/Debug/net5.0/19-kurucu-metotlar.deps.json
+/home/ahmet/Documents/PatikaDev/PatikaDevCSharp/19-kurucu-metotlar/bin/Debug/net5.0/19-kurucu-metotlar.runtimeconfig.json
+/home/ahmet/Documents/PatikaDev/PatikaDevCSharp/19-kurucu-metotlar/bin/Debug/net5.0/19-kurucu-metotlar.runtimeconfig.dev.json
+/home/ahmet/Documents/PatikaDev/PatikaDevCSharp/19-kurucu-metotlar/bin/Debug/net5.0/19-kurucu-metotlar.dll
+/home/ahmet/Documents/PatikaDev/PatikaDevCSharp/19-kurucu-metotlar/bin/Debug/net5.0/ref/19-kurucu-metotlar.dll
+/home/ahmet/Documents/PatikaDev/PatikaDevCSharp/19-kurucu-metotlar/bin/Debug/net5.0/19-kurucu-metotlar.pdb
+/home/ahmet/Documents/PatikaDev/PatikaDevCSharp/19-kurucu-metotlar/obj/Debug/net5.0/19-kurucu-metotlar.csproj.AssemblyReference.cache
+/home/ahmet/Documents/PatikaDev/PatikaDevCSharp/19-kurucu-metotlar/obj/Debug/net5.0/19-kurucu-metotlar.GeneratedMSBuildEditorConfig.editorconfig
+/home/ahmet/Documents/PatikaDev/PatikaDevCSharp/19-kurucu-metotlar/obj/Debug/net5.0/19-kurucu-metotlar.AssemblyInfoInputs.cache
+/home/ahmet/Documents/PatikaDev/PatikaDevCSharp/19-kurucu-metotlar/obj/Debug/net5.0/19-kurucu-metotlar.AssemblyInfo.cs
+/home/ahmet/Documents/PatikaDev/PatikaDevCSharp/19-kurucu-metotlar/obj/Debug/net5.0/19-kurucu-metotlar.csproj.CoreCompileInputs.cache
+/home/ahmet/Documents/PatikaDev/PatikaDevCSharp/19-kurucu-metotlar/obj/Debug/net5.0/19-kurucu-metotlar.dll
+/home/ahmet/Documents/PatikaDev/PatikaDevCSharp/19-kurucu-metotlar/obj/Debug/net5.0/ref/19-kurucu-metotlar.dll
+/home/ahmet/Documents/PatikaDev/PatikaDevCSharp/19-kurucu-metotlar/obj/Debug/net5.0/19-kurucu-metotlar.pdb
+/home/ahmet/Documents/PatikaDev/PatikaDevCSharp/19-kurucu-metotlar/obj/Debug/net5.0/19-kurucu-metotlar.genruntimeconfig.cache
