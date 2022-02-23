@@ -1,0 +1,16 @@
+/home/ahmet/Documents/PatikaDev/PatikaDevCSharp/20-encapsulation/bin/Debug/net5.0/20-encapsulation
+/home/ahmet/Documents/PatikaDev/PatikaDevCSharp/20-encapsulation/bin/Debug/net5.0/20-encapsulation.deps.json
+/home/ahmet/Documents/PatikaDev/PatikaDevCSharp/20-encapsulation/bin/Debug/net5.0/20-encapsulation.runtimeconfig.json
+/home/ahmet/Documents/PatikaDev/PatikaDevCSharp/20-encapsulation/bin/Debug/net5.0/20-encapsulation.runtimeconfig.dev.json
+/home/ahmet/Documents/PatikaDev/PatikaDevCSharp/20-encapsulation/bin/Debug/net5.0/20-encapsulation.dll
+/home/ahmet/Documents/PatikaDev/PatikaDevCSharp/20-encapsulation/bin/Debug/net5.0/ref/20-encapsulation.dll
+/home/ahmet/Documents/PatikaDev/PatikaDevCSharp/20-encapsulation/bin/Debug/net5.0/20-encapsulation.pdb
+/home/ahmet/Documents/PatikaDev/PatikaDevCSharp/20-encapsulation/obj/Debug/net5.0/20-encapsulation.csproj.AssemblyReference.cache
+/home/ahmet/Documents/PatikaDev/PatikaDevCSharp/20-encapsulation/obj/Debug/net5.0/20-encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+/home/ahmet/Documents/PatikaDev/PatikaDevCSharp/20-encapsulation/obj/Debug/net5.0/20-encapsulation.AssemblyInfoInputs.cache
+/home/ahmet/Documents/PatikaDev/PatikaDevCSharp/20-encapsulation/obj/Debug/net5.0/20-encapsulation.AssemblyInfo.cs
+/home/ahmet/Documents/PatikaDev/PatikaDevCSharp/20-encapsulation/obj/Debug/net5.0/20-encapsulation.csproj.CoreCompileInputs.cache
+/home/ahmet/Documents/PatikaDev/PatikaDevCSharp/20-encapsulation/obj/Debug/net5.0/20-encapsulation.dll
+/home/ahmet/Documents/PatikaDev/PatikaDevCSharp/20-encapsulation/obj/Debug/net5.0/ref/20-encapsulation.dll
+/home/ahmet/Documents/PatikaDev/PatikaDevCSharp/20-encapsulation/obj/Debug/net5.0/20-encapsulation.pdb
+/home/ahmet/Documents/PatikaDev/PatikaDevCSharp/20-encapsulation/obj/Debug/net5.0/20-encapsulation.genruntimeconfig.cache
