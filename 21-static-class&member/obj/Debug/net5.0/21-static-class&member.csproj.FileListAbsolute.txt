@@ -1,0 +1,16 @@
+/home/ahmet/Documents/PatikaDev/PatikaDevCSharp/21-static-class&member/bin/Debug/net5.0/21-static-class&member
+/home/ahmet/Documents/PatikaDev/PatikaDevCSharp/21-static-class&member/bin/Debug/net5.0/21-static-class&member.deps.json
+/home/ahmet/Documents/PatikaDev/PatikaDevCSharp/21-static-class&member/bin/Debug/net5.0/21-static-class&member.runtimeconfig.json
+/home/ahmet/Documents/PatikaDev/PatikaDevCSharp/21-static-class&member/bin/Debug/net5.0/21-static-class&member.runtimeconfig.dev.json
+/home/ahmet/Documents/PatikaDev/PatikaDevCSharp/21-static-class&member/bin/Debug/net5.0/21-static-class&member.dll
+/home/ahmet/Documents/PatikaDev/PatikaDevCSharp/21-static-class&member/bin/Debug/net5.0/ref/21-static-class&member.dll
+/home/ahmet/Documents/PatikaDev/PatikaDevCSharp/21-static-class&member/bin/Debug/net5.0/21-static-class&member.pdb
+/home/ahmet/Documents/PatikaDev/PatikaDevCSharp/21-static-class&member/obj/Debug/net5.0/21-static-class&member.csproj.AssemblyReference.cache
+/home/ahmet/Documents/PatikaDev/PatikaDevCSharp/21-static-class&member/obj/Debug/net5.0/21-static-class&member.GeneratedMSBuildEditorConfig.editorconfig
+/home/ahmet/Documents/PatikaDev/PatikaDevCSharp/21-static-class&member/obj/Debug/net5.0/21-static-class&member.AssemblyInfoInputs.cache
+/home/ahmet/Documents/PatikaDev/PatikaDevCSharp/21-static-class&member/obj/Debug/net5.0/21-static-class&member.AssemblyInfo.cs
+/home/ahmet/Documents/PatikaDev/PatikaDevCSharp/21-static-class&member/obj/Debug/net5.0/21-static-class&member.csproj.CoreCompileInputs.cache
+/home/ahmet/Documents/PatikaDev/PatikaDevCSharp/21-static-class&member/obj/Debug/net5.0/21-static-class&member.dll
+/home/ahmet/Documents/PatikaDev/PatikaDevCSharp/21-static-class&member/obj/Debug/net5.0/ref/21-static-class&member.dll
+/home/ahmet/Documents/PatikaDev/PatikaDevCSharp/21-static-class&member/obj/Debug/net5.0/21-static-class&member.pdb
+/home/ahmet/Documents/PatikaDev/PatikaDevCSharp/21-static-class&member/obj/Debug/net5.0/21-static-class&member.genruntimeconfig.cache
